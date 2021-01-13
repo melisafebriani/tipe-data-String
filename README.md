@@ -1,5 +1,3 @@
-PHP Dasar
-
 Tips membuat data string yang lebih dari satu baris.
 
 Walaupun sebenarnya kita bisa menggunakan "\n" sebagai ENTER.
