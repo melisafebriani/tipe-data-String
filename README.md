@@ -1,4 +1,4 @@
-#PHP Dasar
+PHP Dasar
 
 Kadang kita ingin membuat data string yang lebih dari satu baris. 
 Untuk melakukan ini sebenaranya kita bisa menggunakan "\n" sebagai ENTER.
